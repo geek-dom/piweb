@@ -96,3 +96,44 @@ post_date: 2019-05-30 13:55:23
 <!-- wp:paragraph -->
 <p>With that, you should be all set.  Just remember if you want to connect to it from another machine, you will have to add the new machines key info to authorized_keys.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>OK, so an edit to add the Mac Book screen shots.  I have a Mac book, a G5, and Mac Mini (the good one where you can add a second hard drive)...I know, right?  Why would someone have Microsoft, Apple, and Linux all running...  it's kind of like</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+https://youtu.be/O3ZOKDmorj0
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>So anyways...So on MacOS, open up a terminal and you want to run the command ssh-keygen.  That will ask a few questions.  go with the defaults and PLEASE enter a passphrase (multi-layered security)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+<iframe src="https://drive.google.com/file/d/1s_ElNTB3KVB_NH1Q4ROBjqbQEakM2Leg/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1nSZ_Guz2DhC0xyooA0h_51RM3kyoaZIy/preview" width="640" height="480"></iframe>
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>Next, you need to push your new shiny public key to your remote linux box.  Do so by the this handy dandy command  cat ~/.ssh/id_rsa.pub | ssh name@192.168.x.x 'cat >> .ssh/authorized_keys'</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+<iframe src="https://drive.google.com/file/d/1Ei4Wh6dxh8tFMho5wuBL4BLQdtBD7cxm/preview" width="640" height="480"></iframe>
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>So now we just need to launch an ssh console from the Mac.  Windows you have to install putty, MacOS is ready to go so run ssh -p yourportnumber user@IP.  Follow the prompts and enter your passphrase.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<iframe src="https://drive.google.com/file/d/1V-ZvrMoWhdFWriqbnMn8XqawW8v6gnZ2/preview" width="640" height="480"></iframe>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>And then...happy happy joy joy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<iframe src="https://drive.google.com/file/d/1zwe4ebmxdyuNeWT6uK5NHj4wwKcNu01f/preview" width="640" height="480"></iframe>
+<!-- /wp:html -->
