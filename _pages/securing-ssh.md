@@ -3,9 +3,8 @@ ID: 56
 post_title: Securing SSH
 author: Don
 post_excerpt: ""
-layout: post
-permalink: >
-  https://geek-dom.com/2019/05/securing-ssh/
+layout: page
+permalink: https://geek-dom.com/securing-ssh/
 published: true
 post_date: 2019-05-30 13:55:23
 ---
@@ -13,9 +12,9 @@ post_date: 2019-05-30 13:55:23
 <p>Security is a big thing for me.  I am Comptia Sec+ certified and I work as a contractor for the DoD and a Navy Vet.  While out of the box is convenient, I'm not an out of the box kind of guy.  If you have anything connected to the internet, you need to be safe.  <br><br>To really discuss how your google machine or phone talks to the world and how you can protect yourself, here's a Don's said so ramble.  Anything that connects to a network (your home internet) has a unique <a href="https://en.wikipedia.org/wiki/MAC_address#/media/File:MAC-48_Address.svg">MAC address</a>. When your device connects, either to wifi or a cable to your internet, it announces it's MAC and your home router assigns it an <a href="https://en.wikipedia.org/wiki/IP_address">IP addres</a>s (kind of like a phone number).  From your router to all devices in your home is called a <a href="https://en.wikipedia.org/wiki/Local_area_network">LAN</a> (Local Area Network) and the IP's assigned are private.  Your router has 2 IP's.  1 for the private LAN and 1 public for the <a href="https://en.wikipedia.org/wiki/Wide_area_network">WAN</a> (Wide Area Network...the internet).  Most home routers run on an IP range of 192.168.x.x.  If your curious what your device is on, you can do the following:  Windows - open a command prompt and type ipconfig /all and hit enter, on a Apple Mac or linux box, open a terminal session and type ifconfig and hit enter.<br><br>So what does have to do with SSH?  Well, you have to know the IP address of the machine you're connecting to.  I only have screen shots of a Windows machine and will work to get Apple Mac shots.  So with the above in mind, you need to know the IP address of the machine you're connecting to (think of it like a phone number) and then the port number (kind of like the extension).  The standard SSH port number is 22.  So to be safe, we're going to pick a different port number.  The other bits of security we're going to go over is to disable being able to log in with a username and password, created secure keys, and an ACL (Access Control List) so that only our machines can connect...simple, right?<br><br>So you have to do steps in a certain order or you could lock yourself out of your system.  So on a windows system (sorry, working on Apple steps) you want to download an SSH application like <a href="https://putty.org/">Putty</a>. With that installed you want to go to the install directory and run the puttygen.exe to create your public/private keys...these will be the secret handshake between your device and your ssh destination.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed -->
-<iframe src="https://drive.google.com/file/d/1k_bwL4cWxGblHiLpzrsmyaCED9oq-Mtx/preview" width="640" height="480"></iframe>
-<!-- /wp:embed -->
+<!-- wp:html -->
+<figure><iframe src="https://drive.google.com/file/d/1k_bwL4cWxGblHiLpzrsmyaCED9oq-Mtx/preview" width="640" height="480"></iframe></figure>
+<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p>When the screen comes up, click on Generate.  It will tell you to roll your mouse around.  This creates a unique key because it's random.  You will then see a block with a bunch of random looking text.  I highly recommend adding a passphrase for additional security.  Save both the public and private keys.  </p>
@@ -115,7 +114,7 @@ https://youtu.be/O3ZOKDmorj0
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
-<p>Next, you need to push your new shiny public key to your remote linux box.  Do so by the this handy dandy command  cat ~/.ssh/id_rsa.pub | ssh name@192.168.x.x 'cat >> .ssh/authorized_keys'</p>
+<p>Next, you need to push your new shiny public key to your remote linux box.  Do so by the this handy dandy command  cat ~/.ssh/id_rsa.pub | ssh name@192.168.x.x 'cat &gt;&gt; .ssh/authorized_keys'</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
