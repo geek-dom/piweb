@@ -4,7 +4,7 @@ post_title: Kitties
 author: Don
 post_excerpt: ""
 layout: page
-permalink: https://geek-dom.com/kitties/
+permalink: https://geek-dom.com/about-me/kitties/
 published: true
 post_date: 2019-09-08 09:22:18
 ---
@@ -13,7 +13,7 @@ post_date: 2019-09-08 09:22:18
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<iframe src="https://drive.google.com/file/d/17kg4m9vWkvDwy69A4fTy1VJtkLRNVxTT/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/17kg4m9vWkvDwy69A4fTy1VJtkLRNVxTT/preview" width="355" height="470"></iframe>
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
@@ -21,7 +21,7 @@ post_date: 2019-09-08 09:22:18
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<iframe src="https://drive.google.com/file/d/1l1H036gappjBaL0gO2TxorfH2QCnYiRH/preview" width="640" height="480"></iframe> <iframe src="https://drive.google.com/file/d/1ErGqUUUm49MPOgmAvwCQmCudIkDCvwHN/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1l1H036gappjBaL0gO2TxorfH2QCnYiRH/preview" width="355" height="470"></iframe> <iframe src="https://drive.google.com/file/d/1ErGqUUUm49MPOgmAvwCQmCudIkDCvwHN/preview" width="355" height="470"></iframe>
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
@@ -29,11 +29,11 @@ post_date: 2019-09-08 09:22:18
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<iframe src="https://drive.google.com/file/d/1qZ_CZJ6HSoGNbQPVE7L1B18j1itBLdvn/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1qZ_CZJ6HSoGNbQPVE7L1B18j1itBLdvn/preview" width="355" height="470"></iframe>
 <!-- /wp:html -->
 
 <!-- wp:html -->
-<iframe src="https://drive.google.com/file/d/1cHIOCFEBo8Ytst67I3lK1zUwIIwDWmmS/preview" width="600" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1cHIOCFEBo8Ytst67I3lK1zUwIIwDWmmS/preview" width="355" height="470"></iframe>
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
@@ -41,8 +41,8 @@ post_date: 2019-09-08 09:22:18
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<iframe src="https://drive.google.com/file/d/1KoOD9YcBsbWXWSkP-SkX9jMYGqZcs7qu/preview" width="640" height="480"></iframe>
-<iframe src="https://drive.google.com/file/d/1EIcCH0vkHUMiKtB-a4Uk-_VThlaGtUmK/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1KoOD9YcBsbWXWSkP-SkX9jMYGqZcs7qu/preview" width="355" height="470"></iframe>
+<iframe src="https://drive.google.com/file/d/1EIcCH0vkHUMiKtB-a4Uk-_VThlaGtUmK/preview" width="355" height="470"></iframe>
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
@@ -50,5 +50,5 @@ post_date: 2019-09-08 09:22:18
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<iframe src="https://drive.google.com/file/d/1GpiGC5jEHFqaSVV88S-GOMqnTIMq8bv2/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1GpiGC5jEHFqaSVV88S-GOMqnTIMq8bv2/preview" width="355" height="470"></iframe>
 <!-- /wp:html -->
