@@ -4,7 +4,7 @@ post_title: Aquatics
 author: Don
 post_excerpt: ""
 layout: page
-permalink: https://geek-dom.com/aquatics/
+permalink: https://geek-dom.com/about-me/aquatics/
 published: true
 post_date: 2019-10-04 21:59:03
 ---

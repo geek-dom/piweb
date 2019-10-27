@@ -4,7 +4,8 @@ post_title: All Videos
 author: Don
 post_excerpt: ""
 layout: page
-permalink: https://geek-dom.com/all-videos/
+permalink: >
+  https://geek-dom.com/raspberry-pi-projects/all-videos/
 published: true
 post_date: 2019-08-15 07:26:28
 ---

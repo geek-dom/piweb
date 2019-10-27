@@ -3,9 +3,9 @@ ID: 54
 post_title: Cool breeze
 author: Don
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://geek-dom.com/2019/05/cool-breeze/
+  https://geek-dom.com/raspberry-pi-projects/cool-breeze/
 published: true
 post_date: 2019-05-30 06:51:44
 ---

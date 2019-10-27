@@ -4,7 +4,8 @@ post_title: Securing SSH
 author: Don
 post_excerpt: ""
 layout: page
-permalink: https://geek-dom.com/securing-ssh/
+permalink: >
+  https://geek-dom.com/raspberry-pi-projects/securing-ssh/
 published: true
 post_date: 2019-05-30 13:55:23
 ---

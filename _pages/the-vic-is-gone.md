@@ -4,7 +4,8 @@ post_title: The Vic is gone
 author: Don
 post_excerpt: ""
 layout: page
-permalink: https://geek-dom.com/the-vic-is-gone/
+permalink: >
+  https://geek-dom.com/vehicle-projects/the-vic-is-gone/
 published: true
 post_date: 2019-06-27 15:38:26
 ---

@@ -3,9 +3,9 @@ ID: 41
 post_title: Progress and Failures
 author: Don
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://geek-dom.com/2019/05/progress-and-failures/
+  https://geek-dom.com/raspberry-pi-projects/progress-and-failures/
 published: true
 post_date: 2019-05-29 18:30:02
 ---

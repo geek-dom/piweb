@@ -5,7 +5,7 @@ author: Don
 post_excerpt: ""
 layout: page
 permalink: >
-  https://geek-dom.com/installing-raspian-in-headless-mode/
+  https://geek-dom.com/raspberry-pi-projects/installing-raspian-in-headless-mode/
 published: true
 post_date: 2019-08-15 07:35:43
 ---
