@@ -17,7 +17,7 @@ post_date: 2019-09-08 09:22:18
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>Lily is our only female and part of the litter the momma cat had.  She has a cute face, but won't just lay down in bed when we got to sleep...always moving!  And she doesn't like the other cats much...not even her brother, Lucky.</p>
+<p>Lily is our only female and part of the litter the momma cat had.  She has a cute face, but won't just lay down in bed when we got to sleep...always moving!  She got booted from the house for over a year because she went through dozens of cords (no phone chargers alone, but xbox cords) and using our bar as a scratching post. And she doesn't like the other cats much...not even her brother, Lucky.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -47,4 +47,14 @@ post_date: 2019-09-08 09:22:18
 
 <!-- wp:paragraph -->
 <p>So little bit of a back story with our newest cat, Frank.  My wife and her friends went out for a girls' night and ended up at The River Kitty Cafe, which is a great place that showcases adoptable cats from the local Humane Society (<a href="https://www.riverkittycatcafe.com/">https://www.riverkittycatcafe.com/)</a> .  My wife texted me that she was there, so I pulled up the live cam for the Cafe and was able to see them playing with the cats.  She fell in love with one kitty, named Daffy Duck.  I went to town early one day and went to see him for myself.  My plan was to surprise her with bringing him home.  As soon as I walked in, he came running up to me.  I knew he would be coming home, but I did make sure with my wife first.  He is super snugly and very talkative.  When he talks to us, he sounds like a cat version of Chewie.  He and Dude have become best buds.  Dude was always trying to play with the other cats, but they didn't want any.  These two kitties really scrap it out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<iframe src="https://drive.google.com/file/d/1GpiGC5jEHFqaSVV88S-GOMqnTIMq8bv2/preview" width="355" height="470"></iframe>
+<!-- /wp:html -->
+
+<iframe src="https://photos.app.goo.gl/dz6UJdLxRH9F97qn7" width="355" height="470"></iframe>
+
+<!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph -->
