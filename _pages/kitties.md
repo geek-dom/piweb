@@ -4,7 +4,7 @@ post_title: Kitties
 author: Don
 post_excerpt: ""
 layout: page
-permalink: https://geek-dom.com/about-me/kitties/
+permalink: https://geek-dom.com/pets/kitties/
 published: true
 post_date: 2019-09-08 09:22:18
 ---
@@ -48,7 +48,3 @@ post_date: 2019-09-08 09:22:18
 <!-- wp:paragraph -->
 <p>So little bit of a back story with our newest cat, Frank.  My wife and her friends went out for a girls' night and ended up at The River Kitty Cafe, which is a great place that showcases adoptable cats from the local Humane Society (<a href="https://www.riverkittycatcafe.com/">https://www.riverkittycatcafe.com/)</a> .  My wife texted me that she was there, so I pulled up the live cam for the Cafe and was able to see them playing with the cats.  She fell in love with one kitty, named Daffy Duck.  I went to town early one day and went to see him for myself.  My plan was to surprise her with bringing him home.  As soon as I walked in, he came running up to me.  I knew he would be coming home, but I did make sure with my wife first.  He is super snugly and very talkative.  When he talks to us, he sounds like a cat version of Chewie.  He and Dude have become best buds.  Dude was always trying to play with the other cats, but they didn't want any.  These two kitties really scrap it out.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<iframe src="https://drive.google.com/file/d/1GpiGC5jEHFqaSVV88S-GOMqnTIMq8bv2/preview" width="355" height="470"></iframe>
-<!-- /wp:html -->
