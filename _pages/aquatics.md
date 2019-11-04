@@ -4,10 +4,10 @@ post_title: Aquatics
 author: Don
 post_excerpt: ""
 layout: page
-permalink: https://geek-dom.com/about-me/aquatics/
+permalink: https://geek-dom.com/pets/aquatics/
 published: true
 post_date: 2019-10-04 21:59:03
 ---
 <!-- wp:paragraph -->
-<p>Coming soon, tales from the deep...well, stories about our aquariums.  </p>
+<p>I've had a few aquariums in my life.  Nothing every really fancy.  When my wife said that she wanted an aquarium little did I know that I would get hooked on the hobby.  We started off with with a 36 gallon curved tank.  We had lots of failures until we really started researching and doing things right.  Somewhere along the way, I got hooked on Mystery Snails.  They are fun to watch.</p>
 <!-- /wp:paragraph -->
