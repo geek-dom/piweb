@@ -29,5 +29,5 @@ post_date: 2019-10-28 11:38:48
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We've upped our game.  We now have 2 36-37 gallon tanks up and cycled.  We haven't decided what to do with the 5 gallon one that we were using for an emergency tank.  I'd like to get that setup as a Beta tank for my wife.<br><br>A little while back, I realized that an aquatic website that I had been using for info was actually located just outside Indy...about 2 hours from me.  Check out Aquaticarts.com.  <br>1st experience has been awesome.  We made the drive to do a local pickup (they do ship everything with a live guarantee)  and they were nice enough to give a tour of the facility which was awesome.  I look forward to my next order and pickup!  Be sure to check them out.  Also make sure you have the S on ARTS...if not it takes you to some water fountain place.</p>
+<p>We've upped our game.  We now have 2 36-37 gallon tanks up and cycled.  We haven't decided what to do with the 5 gallon one that we were using for an emergency tank.  I'd like to get that setup as a Beta tank for my wife.</p>
 <!-- /wp:paragraph -->
