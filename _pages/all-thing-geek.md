@@ -1,6 +1,6 @@
 ---
 ID: 115
-post_title: All thing GEEK!!!
+post_title: All things GEEK!!!
 author: Don
 post_excerpt: ""
 layout: page
