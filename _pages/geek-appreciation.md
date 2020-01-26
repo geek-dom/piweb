@@ -17,5 +17,5 @@ post_date: 2020-01-16 15:14:25
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To all the Norms...be kind to your Geek</p>
+<p><a href="https://geek-dom.com/geek-appreciation/be-kind-to-geeks/">To all the Norms</a>...be kind to your Geek</p>
 <!-- /wp:paragraph -->
