@@ -14,5 +14,5 @@ post_date: 2019-08-15 07:35:43
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uxb5jIJhK6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fduMu7YcI5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- /wp:html -->
